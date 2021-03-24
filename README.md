@@ -1,6 +1,8 @@
 # The 3Dimensional Jump
 # by Exotik
 
+## Current Version: Private Beta 1
+
 YO! Java game?!?!?!??!!?!?!?!?!? WHAAAAAAAAAAT?!?!?!?!?!?
 alos 3d tyeah heheu
 I no kno how to spel guys fog
